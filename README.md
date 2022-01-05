@@ -836,5 +836,5 @@ plt.savefig('model_loss.png')
 This project is implemented based on the following paper - 
 * Shen, Liyue, Wei Zhao, and Lei Xing. "Patient-specific reconstruction of volumetric computed tomography images from a single projection view via deep learning." Nature biomedical engineering 3.11 (2019): 880-888.
 
-![Link] (https://arxiv.org/abs/2111.15111) <br>
-![Link] (https://github.com/mrinal054/2D_to_3D_Vertebrae_Reconstruction)
+[Link] (https://arxiv.org/abs/2111.15111) <br>
+[Link] (https://github.com/mrinal054/2D_to_3D_Vertebrae_Reconstruction)
